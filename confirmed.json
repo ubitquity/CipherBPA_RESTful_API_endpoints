@@ -1,0 +1,8 @@
+{
+  "transaction_hash": "0xabcde12345fgh67890ijklmno1234",
+  "status": "confirmed",
+  "block_number": 12345678,
+  "timestamp": "2025-04-23T12:34:56Z",
+  "token": "UBQT_P",
+  "amount": "50.00"
+}
