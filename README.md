@@ -5,4 +5,4 @@ NOTE: This is a basic RESTful API for the proprietary CipherBPA add-on to NFTitl
 API Instructions:
 This endpoint connects to the respective blockchain (Polygon, Solana, or BNBChain) and fetches the token balance for the provided address. The UBQT_P token on Polygon, UBQT_S on Solana, and UBQT_B on BNBChain will be returned with the amount.
 
-To become a corporate customer, visit NFTitleNetwork.com. For complex software integration consulting via our Managed Solutions offering, email info@ubitquity.io or open a support ticket by visiting: support.ubitquityx.com.
+To become a corporate customer, visit https://NFTitleNetwork.com. For complex software integration consulting via our Managed Solutions offering, email info@ubitquity.io or open a support ticket by visiting: https://support.ubitquityx.com.
